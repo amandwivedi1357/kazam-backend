@@ -4,7 +4,7 @@
   "description": "Backend for the Full-Stack To-Do List App",
   "main": "dist/index.js",
   "scripts": {
-    "start": "ts-node dist/index.ts",
+    "start": "ts-node src/index.ts",
     "dev": "ts-node-dev --respawn src/index.ts",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
